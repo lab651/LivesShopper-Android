@@ -44,12 +44,10 @@ android.defaultConfig.manifestPlaceholders = ['appAuthRedirectScheme': 'YOURSCHE
 
 
 dependencies {
-   // implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'com.github.lab651:LivesShopper-Android:-SNAPSHOT'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
 
     implementation 'com.google.firebase:firebase-ml-vision:20.0.0'
     implementation 'com.google.firebase:firebase-core:16.0.9'
-
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'androidx.appcompat:appcompat:1.0.2'

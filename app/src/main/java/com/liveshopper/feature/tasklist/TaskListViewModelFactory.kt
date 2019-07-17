@@ -3,7 +3,7 @@ package com.liveshopper.feature.tasklist
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.lab651.liveshopper.task.model.Task
-import com.liveshopper.feature.shared.location.LocationRepository
+import com.liveshopper.feature.location.LocationRepository
 import com.liveshopper.repository.TaskRepository
 
 class TaskListViewModelFactory(

@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.lab651.liveshopper.task.model.Task
-import com.liveshopper.feature.shared.location.LocationRepository
+import com.liveshopper.feature.location.LocationRepository
 import com.liveshopper.repository.TaskRepository
 
 class TaskListViewModel(

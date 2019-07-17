@@ -1,4 +1,4 @@
-package com.liveshopper.feature.shared.location
+package com.liveshopper.feature.location
 
 import android.annotation.SuppressLint
 import android.content.Context

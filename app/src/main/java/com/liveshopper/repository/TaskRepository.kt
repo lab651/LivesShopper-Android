@@ -1,7 +1,7 @@
 package com.liveshopper.repository
 
 import com.lab651.liveshopper.api.ApiClient
-import com.liveshopper.feature.shared.location.LocationRepository
+import com.liveshopper.feature.location.LocationRepository
 import com.lab651.liveshopper.task.model.Task
 import timber.log.Timber
 

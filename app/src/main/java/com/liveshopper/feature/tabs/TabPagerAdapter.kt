@@ -1,4 +1,4 @@
-package com.liveshopper.feature.shared.tabs
+package com.liveshopper.feature.tabs
 
 import android.content.Context
 import androidx.fragment.app.Fragment

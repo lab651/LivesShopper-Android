@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import com.lab651.liveshopper.LiveShopperAPI
-import com.liveshopper.feature.shared.tabs.TabPagerAdapter
+import com.liveshopper.feature.tabs.TabPagerAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

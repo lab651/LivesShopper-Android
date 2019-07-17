@@ -16,7 +16,7 @@ import com.google.android.gms.maps.model.MarkerOptions
 import com.lab651.liveshopper.task.model.Task
 import com.liveshopper.BaseFragment
 import com.liveshopper.R
-import com.liveshopper.feature.shared.location.LocationRepository
+import com.liveshopper.feature.location.LocationRepository
 import com.liveshopper.repository.TaskRepository
 import com.liveshopper.util.getApplication
 import com.liveshopper.util.moveCamera

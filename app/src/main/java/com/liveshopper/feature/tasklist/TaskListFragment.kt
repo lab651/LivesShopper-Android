@@ -11,7 +11,7 @@ import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.lab651.liveshopper.task.model.Task
 import com.liveshopper.R
-import com.liveshopper.feature.shared.location.LocationRepository
+import com.liveshopper.feature.location.LocationRepository
 import com.liveshopper.feature.task.TaskActivity
 import com.liveshopper.feature.tasklist.ui.TaskListAdapter
 import com.liveshopper.repository.TaskRepository
