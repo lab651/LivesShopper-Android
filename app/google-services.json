@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223838632843",
+    "firebase_url": "https://liveshopper-41edd.firebaseio.com",
+    "project_id": "liveshopper-41edd",
+    "storage_bucket": "liveshopper-41edd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223838632843:android:9521a88cef3289e0",
+        "android_client_info": {
+          "package_name": "com.liveshopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223838632843-2m6ebnat5q6fv45uol3euh3n2fvhof0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPqFelV6IuqwR0eIkyUH5C0Xrd5xOVdyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223838632843-2m6ebnat5q6fv45uol3euh3n2fvhof0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
